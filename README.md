@@ -6,7 +6,7 @@
 
 **Excel File:** The row original dataset that is provided (Name as World_Economic_Indicator)
 
-**Problem Statement:**
+**Problem Statement Given:**
 The Organisation for Economic Co-operation and Development is creating a
 department under its name which will focus on how a country can attain sustainable
 growth. This organisation hires you as a data analyst for this department to
