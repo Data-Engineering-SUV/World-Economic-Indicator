@@ -16,3 +16,9 @@ has different countries' and regions' GDPs, populations, and other factors that 
 impact GDP/Capita. Now using Data Analysis methods, develop a solution that can
 be referred to as “how a country can attain sustainable growth“.
 
+## Analysis Findings 
+![image](https://github.com/Data-Engineering-SUV/World-Economic-Indicator/assets/106040176/5584116d-26af-4834-9cab-be670239e393)
+![image](https://github.com/Data-Engineering-SUV/World-Economic-Indicator/assets/106040176/d4f67658-3f72-4007-a5f2-7b44a5c1d9ec)
+![image](https://github.com/Data-Engineering-SUV/World-Economic-Indicator/assets/106040176/61553948-bb9b-4875-a908-4acc4856f76b)
+
+
